@@ -1,4 +1,4 @@
-#ifndef DallasTemperature_h
+// #ifndef DallasTemperature_h
 #define DallasTemperature_h
 
 #define DALLASTEMPLIBVERSION "3.7.9" // To be deprecated
